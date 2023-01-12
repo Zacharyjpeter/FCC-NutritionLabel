@@ -1,4 +1,4 @@
-<h1>FCC-CSSPhotoGallery</h1>
+<h1>FCC Nutrition Label</h1>
 A nutrition label. This project helped me learn typography and how to style text more effectively.
 <br>
 <br>
